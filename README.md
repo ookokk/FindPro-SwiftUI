@@ -3,11 +3,6 @@
 **Find Pro** is a completely free and innovative platform that connects professional service providers and customers.  
 From electricians, plumbers, software developers to cleaners — you can find them all in one place!
 
----
-
-## 📱 Mobile Clients
-- [iOS (Swift) - This repo](#)
-- [Flutter Client](#) (cross-platform version)
 
 ---
 
